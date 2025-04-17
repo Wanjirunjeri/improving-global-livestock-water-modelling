@@ -4,3 +4,4 @@ livestock_geotiff2015/
 livestock_geotiff2020/
 livestock_netcdf/
 livestock_regridded/
+ERA5_temp/*
