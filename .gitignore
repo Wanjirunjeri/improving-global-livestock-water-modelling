@@ -1,0 +1,6 @@
+ERA5_temp/
+livestock_geotiff2010/
+livestock_geotiff2015/
+livestock_geotiff2020/
+livestock_netcdf/
+livestock_regridded/
