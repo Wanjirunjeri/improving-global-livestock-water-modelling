@@ -1,0 +1,42 @@
+✓ xarray      2022.6.0
+✓ pandas      1.4.2
+✓ matplotlib  3.5.2
+Traceback (most recent call last):
+  File "<stdin>", line 5, in <module>
+NameError: name 'netCDF4' is not defined
+📥  Opening Utrecht NetCDF …
+✅  Variables after rename: ['crs', 'buffalo', 'chicken', 'cattle', 'duck', 'goat', 'horse', 'pig', 'sheep']
+🔍  Cattle 2010
+    ✔ RMSE=424.9327, MAE=51.8774, Bias=-50.5804, r=0.967
+🔍  Cattle 2015
+    ✔ RMSE=758.6165, MAE=211.2678, Bias=-22.6414, r=0.894
+🔍  Buffalo 2010
+    ✔ RMSE=99.5148, MAE=6.0837, Bias=-5.9176, r=0.991
+🔍  Buffalo 2015
+    ✔ RMSE=390.5930, MAE=46.7120, Bias=-12.2925, r=0.916
+🔍  Sheep 2010
+    ✔ RMSE=441.2556, MAE=43.6561, Bias=-42.6187, r=0.961
+🔍  Sheep 2015
+    ✔ RMSE=736.6535, MAE=189.1655, Bias=-46.6212, r=0.902
+🔍  Goat 2010
+    ✔ RMSE=643.7142, MAE=39.7179, Bias=-38.8559, r=0.944
+🔍  Goat 2015
+    ✔ RMSE=974.5525, MAE=180.5227, Bias=-36.5373, r=0.868
+🔍  Horse 2010
+    ✔ RMSE=83.3974, MAE=3.0017, Bias=-2.9432, r=0.788
+🔍  Horse 2015
+    ✔ RMSE=79.8999, MAE=14.1827, Bias=-1.3462, r=0.664
+🔍  Pig 2010
+    ✔ RMSE=745.3412, MAE=58.8579, Bias=-57.9625, r=0.951
+🔍  Pig 2015
+    ✔ RMSE=821.1522, MAE=142.0964, Bias=-45.3182, r=0.937
+🔍  Chicken 2010
+    ✔ RMSE=20121.4112, MAE=1656.9164, Bias=-1630.0635, r=0.916
+🔍  Chicken 2015
+    ✔ RMSE=27171.7344, MAE=4406.6172, Bias=-1728.3816, r=0.865
+🔍  Duck 2010
+    ✔ RMSE=2089.3500, MAE=94.7219, Bias=-93.7186, r=0.935
+🔍  Duck 2015
+    ✔ RMSE=3128.6895, MAE=319.7456, Bias=50.9408, r=0.849
+
+📄  Metrics saved → validation_summary.csv

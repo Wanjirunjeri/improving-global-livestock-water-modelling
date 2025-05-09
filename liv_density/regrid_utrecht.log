@@ -1,0 +1,3 @@
+Regridding Utrecht dataset...
+cdo    remapcon: YAC first order conservative weights from lonlat (4320x2160) to lonlat (720x360) grid
+❌ Regridding failed!

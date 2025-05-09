@@ -20,3 +20,16 @@ livestock_regridded/*
 !livestock_regridded/**/*.sh
 
 *.out
+
+# ignore NetCDF, HDF5, CSV dumps, images …
+*.nc
+*.h5
+*.csv
+*.png
+*.tif
+
+# ignore whole folders
+data/              # everything under data/
+plots/             # generated figures
+outputs/
+
