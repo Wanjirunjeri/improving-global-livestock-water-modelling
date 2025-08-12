@@ -38,3 +38,30 @@ withdrawals/plots*/
 withdrawals/*.log
 withdrawals/*.out
 withdrawals/__pycache__/
+# Withdrawals pipeline artifacts
+withdrawals/plots*/ 
+withdrawals/*.log
+withdrawals/*.out
+withdrawals/__pycache__/
+
+# Withdrawals analysis artifacts
+withdrawals_analysis/**/*.png
+withdrawals_analysis/**/*.pdf
+withdrawals_analysis/**/*.nc
+withdrawals_analysis/**/*.csv
+withdrawals_analysis/**/*.parquet
+withdrawals_analysis/**/*.out
+withdrawals_analysis/**/*.log
+withdrawals_analysis/**/__pycache__/
+withdrawals_analysis/**/plots*/
+withdrawals_analysis/**/graphs*/
+withdrawals_analysis/**/logs*/
+withdrawals_analysis/**/results_*/
+withdrawals_analysis/**/spot*/
+withdrawals_analysis/**/spotmaps/
+withdrawals_analysis/**/country_plots/
+withdrawals_analysis/**/Belleza/
+withdrawals_analysis/**/multiple*/
+withdrawals_analysis/**/plots2_*/
+withdrawals_analysis/**/plots3_*/
+withdrawals_analysis/**/plots4_*/
